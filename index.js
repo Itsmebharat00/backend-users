@@ -19,7 +19,7 @@ const users = [
     id: 2,
     username: "torvalds",
     name: "Linus Torvalds",
-    repoCount: 25,
+    repoCount: 25,  
     location: "Portland",
   },
   {
